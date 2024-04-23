@@ -1,0 +1,7 @@
+### GET Files from the directory
+
+GET http://localhost:3000/filemanager/dir/
+
+####
+
+GET http://localhost:3000/
